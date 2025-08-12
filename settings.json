@@ -1,0 +1,29 @@
+{
+    "voice": {
+        "rate": 180,
+        "voice_type": "default"
+    },
+    "wake_word": "Hey",
+    "theme": "superhero",
+    "auto_listen": true,
+    "startup": {
+        "start_minimized": true,
+        "start_in_background": true
+    },
+    "assistant": {
+        "greetings": true,
+        "confirmations": true
+    },
+    "privacy": {
+        "log_commands": false,
+        "mic_access": true
+    },
+    "settings": {
+        "volume": 0.5697674418604651,
+        "language": "en",
+        "theme_color": "light",
+        "voice_rate": 227.90697674418607,
+        "voice_type": "default",
+        "auto_listen": true
+    }
+}

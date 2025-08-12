@@ -1,0 +1,3 @@
+# config.py
+DEEPINFRA_API_KEY = "jK1OAsjagUyWooVcKruVwTzg21x7r5ik"
+OPENWEATHER_API_KEY = "65cf2f7439cfa6e2fb2248412eadb93c"
